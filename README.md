@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pieceofcakey/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/pieceofcakey/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pieceofcakey/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/pieceofcakey/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/pieceofcakey/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pieceofcakey/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/pieceofcakey/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -87,8 +90,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pieceofcakey/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pieceofcakey/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/pieceofcakey/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pieceofcakey/LeetCode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pieceofcakey/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pieceofcakey/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
