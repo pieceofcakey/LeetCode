@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pieceofcakey/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pieceofcakey/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pieceofcakey/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/pieceofcakey/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/pieceofcakey/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pieceofcakey/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/pieceofcakey/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pieceofcakey/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/pieceofcakey/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pieceofcakey/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/pieceofcakey/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pieceofcakey/LeetCode/tree/master/0257-binary-tree-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/pieceofcakey/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
